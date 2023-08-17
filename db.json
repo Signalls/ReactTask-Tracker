@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Wash my clothes",
+      "day": "2023-05-22",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Go to church",
+      "day": "2023-08-23",
+      "reminder": false,
+      "id": 2
+    }
+  ]
+}
